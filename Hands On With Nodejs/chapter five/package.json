@@ -1,0 +1,19 @@
+{
+  "name": "ch-5",
+  "version": "1.0.0",
+  "description": "buffer exercises",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhyey0011/Nodejs_Basics.git"
+  },
+  "keywords": [
+    "handsOnnodeJs"
+  ],
+  "author": "Dhyey",
+  "license": "ISC"
+}

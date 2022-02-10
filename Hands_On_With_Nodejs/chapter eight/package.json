@@ -1,0 +1,21 @@
+{
+  "name": "examples_of_fs",
+  "version": "1.0.0",
+  "description": "Here_are_some_examples",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhyey0011/Nodejs_Basics.git"
+  },
+  "keywords": [
+    "this",
+    "is",
+    "amazing"
+  ],
+  "author": "Dhyey",
+  "license": "ISC"
+}

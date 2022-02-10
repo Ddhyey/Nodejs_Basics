@@ -1,0 +1,23 @@
+{
+  "name": "exercises_of_http",
+  "version": "1.0.0",
+  "description": "some example of http in node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhyey0011/Nodejs_Basics.git"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "Dhyey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhyey0011/Nodejs_Basics/issues"
+  },
+  "homepage": "https://github.com/dhyey0011/Nodejs_Basics#readme"
+}

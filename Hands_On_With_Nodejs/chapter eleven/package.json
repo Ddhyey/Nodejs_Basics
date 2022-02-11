@@ -1,0 +1,23 @@
+{
+  "name": "tcp",
+  "version": "1.0.0",
+  "description": "all about tcp",
+  "main": "start.js",
+  "scripts": {
+    "test": "start.js",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhyey0011/Nodejs_Basics.git"
+  },
+  "keywords": [
+    "tcp"
+  ],
+  "author": "Dhyey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhyey0011/Nodejs_Basics/issues"
+  },
+  "homepage": "https://github.com/dhyey0011/Nodejs_Basics#readme"
+}

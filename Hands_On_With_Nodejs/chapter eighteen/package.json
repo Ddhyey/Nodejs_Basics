@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Packagin Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}

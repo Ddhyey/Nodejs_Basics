@@ -1,0 +1,25 @@
+{
+  "name": "httpchunkedresponses",
+  "version": "1.0.0",
+  "description": "streaming http chunked responses",
+  "main": "ex1.js",
+  "scripts": {
+    "start": "ex1.js",
+    "test": "ex1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ddhyey/Nodejs_Basics.git"
+  },
+  "keywords": [
+    "http",
+    "chunked",
+    "responses"
+  ],
+  "author": "Dhyey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ddhyey/Nodejs_Basics/issues"
+  },
+  "homepage": "https://github.com/Ddhyey/Nodejs_Basics#readme"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "automaticunittesting",
+  "version": "1.0.0",
+  "description": "Automatic unit Testing",
+  "main": "runner.js",
+  "scripts": {
+    "test": "runner.js",
+    "start": "node runner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ddhyey/Nodejs_Basics.git;"
+  },
+  "keywords": [
+    "automatic",
+    "unit",
+    "testing"
+  ],
+  "author": "Dhyey",
+  "license": "ISC"
+}

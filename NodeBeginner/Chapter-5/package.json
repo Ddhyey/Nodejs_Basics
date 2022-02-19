@@ -1,0 +1,19 @@
+{
+  "name": "chapter-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "EventDrivenAsyncCB.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ddhyey/Nodejs_Basics.git"
+  },
+  "author": "Dhyey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ddhyey/Nodejs_Basics/issues"
+  },
+  "homepage": "https://github.com/Ddhyey/Nodejs_Basics#readme"
+}

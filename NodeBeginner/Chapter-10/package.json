@@ -1,0 +1,26 @@
+{
+  "name": "chapter-10",
+  "version": "1.0.0",
+  "description": "Handling Requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ddhyey/Nodejs_Basics.git%22.git"
+  },
+  "keywords": [
+    "Requests",
+    "Router",
+    "server",
+    "HandlingRequests"
+  ],
+  "author": "Dhyey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ddhyey/Nodejs_Basics.git%22/issues"
+  },
+  "homepage": "https://github.com/Ddhyey/Nodejs_Basics.git%22#readme"
+}

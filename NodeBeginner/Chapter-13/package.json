@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Ddhyey/Nodejs_Basics/issues"
   },
-  "homepage": "https://github.com/Ddhyey/Nodejs_Basics#readme"
+  "homepage": "https://github.com/Ddhyey/Nodejs_Basics#readme",
+  "dependencies": {
+    "formidable": "^2.0.1"
+  }
 }

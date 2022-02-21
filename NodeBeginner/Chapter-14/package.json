@@ -1,0 +1,23 @@
+{
+  "name": "chapter-14",
+  "version": "1.0.0",
+  "description": "Uploading and showing image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ddhyey/Nodejs_Basics.git"
+  },
+  "keywords": [
+    "upload"
+  ],
+  "author": "Dhyey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ddhyey/Nodejs_Basics/issues"
+  },
+  "homepage": "https://github.com/Ddhyey/Nodejs_Basics#readme"
+}

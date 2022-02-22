@@ -4,4 +4,4 @@ util.log('Hello');
 var util = require('util');
 var a = {1: true, 2: false};
 console.log(util.inspect(a));
-util.inspect(object, showHidden, depth = 2, showColors);
+// util.inspect(a, showHidden, depth = 2, showColors);

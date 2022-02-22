@@ -1,6 +1,6 @@
 # Nodejs_Basics
 
-# Book 1- Hands On NodeJS
+# Book 1 - "Hands On NodeJS"
 
 - Chapters 
 - 
@@ -26,7 +26,7 @@
       20 -Automated Unit Testing
       21 -Callback flow
       
-# Book 2 Node Beginner
+# Book 2 - "Node Beginner"
 
 - Chapters
 - 

@@ -17,5 +17,8 @@
     "testing"
   ],
   "author": "Dhyey",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "describe": "^1.2.0"
+  }
 }
